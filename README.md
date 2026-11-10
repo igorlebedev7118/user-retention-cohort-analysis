@@ -74,6 +74,10 @@ Retention was calculated as:
 
 **Retention Rate = Active Users in Month N / Users in Month 0 × 100%**
 
+## Monthly User Retention Table Preview
+
+![Monthly User Retention](photo_2026-11-10_22-40-08.png)
+
 ## Key Results
 
 Across the six acquisition cohorts analysed:
