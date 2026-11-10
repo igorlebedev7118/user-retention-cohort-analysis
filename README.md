@@ -76,7 +76,7 @@ Retention was calculated as:
 
 ## Monthly User Retention Table Preview
 
-![Monthly User Retention](photo_2026-11-10_22-40-08.png)
+![Monthly User Retention](photo_2026-11-10_22-40-08.jpg)
 
 ## Key Results
 
