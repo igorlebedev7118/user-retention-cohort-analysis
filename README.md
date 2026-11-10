@@ -1,7 +1,7 @@
 # User Retention Cohort Analysis
 
 **Tools:** PostgreSQL · SQL · DBeaver · Google Sheets  
-**Analysis Period:** January – June 2025
+**Analysis Period:** March 2026
 
 ## Project Overview
 
